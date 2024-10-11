@@ -1,0 +1,6 @@
+C:\Users\L4G3\AppData\Local\Temporary Projects\Recipe Sharing System\obj\Release\ResolveAssemblyReference.cache
+C:\Users\L4G3\Documents\Visual Studio 2008\Projects\Recipe Sharing System\Recipe Sharing System\obj\Release\ResolveAssemblyReference.cache
+C:\Users\L4G3\Documents\Visual Studio 2008\Projects\Recipe Sharing System\Recipe Sharing System\bin\Release\Recipe Sharing System.exe
+C:\Users\L4G3\Documents\Visual Studio 2008\Projects\Recipe Sharing System\Recipe Sharing System\bin\Release\Recipe Sharing System.pdb
+C:\Users\L4G3\Documents\Visual Studio 2008\Projects\Recipe Sharing System\Recipe Sharing System\obj\Release\Recipe Sharing System.exe
+C:\Users\L4G3\Documents\Visual Studio 2008\Projects\Recipe Sharing System\Recipe Sharing System\obj\Release\Recipe Sharing System.pdb

@@ -1,0 +1,5 @@
+C:\Users\L4G3\Documents\Visual Studio 2008\Projects\Recipe Sharing System\Recipe Sharing System\bin\Debug\Recipe Sharing System.exe
+C:\Users\L4G3\Documents\Visual Studio 2008\Projects\Recipe Sharing System\Recipe Sharing System\bin\Debug\Recipe Sharing System.pdb
+C:\Users\L4G3\Documents\Visual Studio 2008\Projects\Recipe Sharing System\Recipe Sharing System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\L4G3\Documents\Visual Studio 2008\Projects\Recipe Sharing System\Recipe Sharing System\obj\Debug\Recipe Sharing System.exe
+C:\Users\L4G3\Documents\Visual Studio 2008\Projects\Recipe Sharing System\Recipe Sharing System\obj\Debug\Recipe Sharing System.pdb
